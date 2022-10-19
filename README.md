@@ -1,4 +1,4 @@
 # ARM-Computer-Vision
 if frog.contains(laserVision)
-execute
+execute;
 end
