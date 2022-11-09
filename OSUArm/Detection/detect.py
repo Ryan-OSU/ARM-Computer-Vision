@@ -4,14 +4,6 @@ import pandas as pd
 import numpy as np
 
 
-
-
-
-#Code requirements:
-# Input - Picture of Workspace and relevant Workpace dimensions
-# Output - Bounding boxes, centroids loactions of all objects
-
-
 class Workspace:
     def __init__(self, grid_coords, bin_coords, image):
         self.grid_coords = grid_coords
